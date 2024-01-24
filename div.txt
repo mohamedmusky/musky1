@@ -1,0 +1,33 @@
+    <div
+      className="col-sm-5 Button1"
+      style={{
+        display: "flex",
+        gap: "10px",
+        background: "rgba(0, 0, 0, 0.2)",
+        padding: "50px",
+        borderRadius: "20px",
+        width:"60px",
+      }}
+    >
+      <div className="row Button">
+        <a href="" class="custom-button">
+          Visit Rupavahini
+        </a>
+        <a href="" class="custom-button">
+          Appoinment
+        </a>
+        <a href="" class="custom-button">
+          Staff in/out
+        </a>
+        <a href="" class="custom-button">
+          vehicle
+        </a>
+      </div>
+
+
+    </div>
+
+
+
+
+
